@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/your-resume-link-here">
+  <a href="https://jumpshare.com/folder/WnNKXyhp2IlNaUgbvZJT">
     <img src="https://img.shields.io/badge/📄_Download_Resume-green?style=for-the-badge" />
   </a>
 </p>
@@ -89,7 +89,7 @@
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Prem-0007?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
