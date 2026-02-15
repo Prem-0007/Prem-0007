@@ -68,7 +68,8 @@
 ## 🚀 Featured Projects
 
 - 🌐 Personal Portfolio Website  
-- 🛒 E-Commerce Website (PHP + SQL)  
+- 🛒 E-Commerce Website
+- 📝 Todo List App (PHP + SQL)  
 - 🎬 StreamX (Netflix-style Clone)  
 - 🎮 JavaScript Games Collection  
 
@@ -78,11 +79,11 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem-0007&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  
 
   <img src="https://streak-stats.demolab.com?user=Prem-0007&theme=transparent&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-0007&layout=compact&theme=transparent&hide_border=true" />
+
 
 </p>
 
