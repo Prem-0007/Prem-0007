@@ -89,7 +89,7 @@
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prem-0007?theme=dark&font=Baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Prem_0007?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
