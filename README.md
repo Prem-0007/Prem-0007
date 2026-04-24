@@ -112,20 +112,6 @@
   <img src="https://raw.githubusercontent.com/Prem-0007/Prem-0007/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-## 📚 DSA Progress Tracker
-
-- Arrays ✅  
-- Strings ✅  
-- Recursion 🔄  
-- Linked List 🔄  
-- Stack & Queue ⏳  
-- Trees ⏳  
-- Graphs ⏳  
-- Dynamic Programming ⏳  
-
----
 
 <h3 align="center">🔥 Code • Learn • Build • Repeat 🔥</h3>
 
