@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jumpshare.com/folder/WnNKXyhp2IlNaUgbvZJT">
+  <a href="https://jumpshare.com/share/0n1TcuyvK1GJkjkV8v8y">
     <img src="https://img.shields.io/badge/📄_Download_Resume-green?style=for-the-badge" />
   </a>
 </p>
