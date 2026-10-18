@@ -114,14 +114,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-0007&theme=react-dark" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
