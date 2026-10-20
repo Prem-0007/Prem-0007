@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile%20Views&color=39ff14&style=flat" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Prem-0007.Prem-0007&left_color=0d1117&right_color=39ff14" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ffd5&height=2" width="100%" alt="" />
