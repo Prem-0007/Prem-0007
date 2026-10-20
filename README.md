@@ -17,9 +17,11 @@
 
 
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Visit%20My%20Profile-39ff14?style=flat" alt="Visit my profile" />
+  <img src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile%20Views&color=39ff14&style=flat" alt="Profile views" />
 </p>
+
 
 
 
