@@ -1,0 +1,15 @@
+
+Package · JSON
+{
+  "name": "profile-readme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-profile.mjs",
+    "generate:mock": "node scripts/generate-profile.mjs --mock"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}
+Claude finished the response
