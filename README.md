@@ -14,21 +14,9 @@
   <a href="https://jumpshare.com/share/0n1TcuyvK1GJkjkV8v8y"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-0d1117?style=for-the-badge&labelColor=0d1117&logo=readme&logoColor=39ff14" alt="Resume" /></a>
 </p>
 
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile%20Views&color=39ff14&style=flat" alt="Profile views" />
 </p>
-
-
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ffd5&height=2" width="100%" alt="" />
 
