@@ -17,7 +17,7 @@ const MOCK = process.argv.includes("--mock");
 
 const THEMES = {
   light: { bg: "#ffffff", card: "#f6f8fa", border: "#d0d7de", text: "#1f2328", muted: "#656d76", accent: "#8a2be2", accent2: "#0a7ea4" },
-  dark: { bg: "#0d1117", card: "#161b22", border: "#30363d", text: "#e6edf3", muted: "#8b949e", accent: "#b57bff", accent2: "#00f7ff" },
+  dark: { bg: "#05070a", card: "#0b1210", border: "#1f4d2c", text: "#e6fff0", muted: "#6fa38a", accent: "#39ff14", accent2: "#00ffd5" },
 };
 const LANG_COLORS = ["#3178c6", "#f1e05a", "#b07219", "#3572a5", "#e34c26", "#563d7c", "#89e051", "#4f5d95"];
 
