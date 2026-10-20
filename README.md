@@ -15,12 +15,11 @@
 </p>
 
 
+
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile+Views&color=39ff14&style=flat"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Prem-0007" alt="Profile views" />
 </p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ffd5&height=2" width="100%" alt="" />
