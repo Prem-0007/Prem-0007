@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://hits.sh/github.com/Prem-0007.svg?label=VISITS&color=39ff14&labelColor=0d1117&style=flat-square" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ffd5&height=2" width="100%" alt="" />
