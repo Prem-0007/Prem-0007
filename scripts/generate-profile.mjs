@@ -62,7 +62,7 @@ async function fetchData() {
         nodes{... on PullRequest{repository{nameWithOwner}}}
       }
     }`,
-    { login: USER, q: `author:${USER} is:pr is:merged is:public -user:${USER}` }
+ { login: USER, q: `author:${USER} is:pr is:merged is:public` } 
   );
   const u = d.user;
   const bytes = {};
