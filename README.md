@@ -16,8 +16,9 @@
 
 
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prem-0007" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Visit%20My%20Profile-39ff14?style=flat" alt="Visit my profile" />
 </p>
 
 
