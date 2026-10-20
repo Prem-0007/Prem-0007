@@ -20,12 +20,11 @@
 
 
 
+
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile%20Views&color=39ff14&style=flat"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile%20Views&color=39ff14&style=flat" alt="Profile views" />
 </p>
+
 
 
 
