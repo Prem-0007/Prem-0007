@@ -19,11 +19,14 @@
 
 
 
+
 <p align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Prem-0007%26label=Profile+Views%26color=39ff14%26style=flat)
-
+  <img
+    src="https://komarev.com/ghpvc/?username=Prem-0007&label=Profile%20Views&color=39ff14&style=flat"
+    alt="Profile views"
+  />
 </p>
+
 
 
 
