@@ -67,7 +67,7 @@ async function fetchData() {
   const u = d.user;
   const bytes = {};
   for (const r of u.repositories.nodes)
-    for (const e of r.languages.edges) bytes[e.node.name] = (bytes[e.node.name] || 0) + e.size;
+    for (const e of r.languages.edges) if (!["Jupyter Notebook"].includes(e.node.name)) bytes[e.node.name] = (bytes[e.node.name] || 0) + e.size;
   const total = Object.values(bytes).reduce((a, b) => a + b, 0) || 1;
   const langs = Object.entries(bytes).sort((a, b) => b[1] - a[1]).slice(0, 5)
     .map(([n, b]) => [n, Math.round((b / total) * 100)]);
