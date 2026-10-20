@@ -145,7 +145,7 @@ function render(data, t, W) {
   data.top.forEach((r) => {
     out.push(`<rect x="${pad}" y="${y}" width="${inner}" height="${48 * s}" rx="8" fill="${t.card}" stroke="${t.border}"/>`);
     text(pad + 16, y + 29 * s, r.name.length > (mobile ? 24 : 48) ? r.name.slice(0, mobile ? 23 : 47) + "…" : r.name, 15 * s, t.text, 700);
-    text(W - pad - 16, y + 29 * s, `${r.lang ? r.lang + "   " : ""}★ ${r.stars}   ⑂ ${r.forks}`, 12.5 * s, t.muted, 400, "end");
+    text(W - pad - 16, y + 29 * s, `${r.lang ? r.lang + "   " : ""}★ ${r.stars}   forks ${r.forks}` , 12.5 * s, t.muted, 400, "end");
     y += 58 * s;
   });
   y -= 10 * s;
