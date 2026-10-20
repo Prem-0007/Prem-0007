@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#39ff14" opacity="0.07"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39ff14" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .t { font-family: 'Courier New', Courier, monospace; font-weight: 700; font-size: 70px; letter-spacing: 8px; text-anchor: middle; }
+    .sub { font-family: 'Courier New', Courier, monospace; font-size: 19px; letter-spacing: 3px; text-anchor: middle; fill: #39ff14; }
+    .cyan { fill: #00ffd5; opacity: 0.8; animation: gA 3.1s infinite steps(1, end); }
+    .mag { fill: #ff2bd6; opacity: 0.75; animation: gB 2.7s infinite steps(1, end); }
+    .main { fill: #39ff14; animation: gC 3.4s infinite steps(1, end); }
+    .bar { fill: #39ff14; opacity: 0.18; animation: sweep 4s linear infinite; }
+    .cur { animation: blink 1s infinite steps(1, end); }
+    @keyframes gA {
+      0%, 88%, 100% { transform: translate(-3px, 0); }
+      90% { transform: translate(-12px, 2px) skewX(-10deg); }
+      93% { transform: translate(8px, -2px); }
+      96% { transform: translate(-6px, 1px) skewX(8deg); }
+    }
+    @keyframes gB {
+      0%, 85%, 100% { transform: translate(3px, 0); }
+      87% { transform: translate(14px, -2px) skewX(10deg); }
+      91% { transform: translate(-9px, 2px); }
+      94% { transform: translate(6px, 0) skewX(-6deg); }
+    }
+    @keyframes gC {
+      0%, 89%, 100% { transform: translate(0, 0); opacity: 1; }
+      90% { transform: translate(4px, 0) skewX(5deg); opacity: 0.85; }
+      92% { transform: translate(-5px, 1px); opacity: 1; }
+      95% { transform: translate(0, 0); opacity: 0.9; }
+    }
+    @keyframes sweep {
+      0% { transform: translateY(-20px); }
+      100% { transform: translateY(220px); }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <rect width="900" height="200" rx="14" fill="#05070a"/>
+  <rect width="900" height="200" rx="14" fill="url(#scan)"/>
+  <rect x="1" y="1" width="898" height="198" rx="13" fill="none" stroke="#1f4d2c"/>
+  <rect class="bar" x="0" y="0" width="900" height="14"/>
+
+  <text class="t cyan" x="450" y="95">PREM KUMAR</text>
+  <text class="t mag" x="450" y="95">PREM KUMAR</text>
+  <g filter="url(#glow)">
+    <text class="t main" x="450" y="95">PREM KUMAR</text>
+  </g>
+
+  <rect x="150" y="116" width="600" height="2" fill="url(#fade)"/>
+
+  <text class="sub" x="450" y="152">&gt; FULL STACK DEV // AI-ML // CYBERSEC<tspan class="cur">_</tspan></text>
+  <text x="450" y="181" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="4" fill="#6fa38a">MERN · NEXT.JS · PYTHON · HACKATHON BUILDER</text>
+</svg>
