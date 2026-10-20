@@ -1,5 +1,3 @@
-
-Package · JSON
 {
   "name": "profile-readme",
   "private": true,
@@ -12,4 +10,3 @@ Package · JSON
     "@resvg/resvg-js": "^2.6.2"
   }
 }
-Claude finished the response
