@@ -50,6 +50,7 @@ async function fetchData() {
     `query($login:String!, $q:String!){
       user(login:$login){
         followers{totalCount}
+        allRepos: repositories(privacy:PUBLIC, ownerAffiliations:OWNER){totalCount}
         contributionsCollection{totalCommitContributions}
         repositories(first:100, privacy:PUBLIC, ownerAffiliations:OWNER, isFork:false, orderBy:{field:STARGAZERS,direction:DESC}){
           totalCount
@@ -75,7 +76,7 @@ async function fetchData() {
   for (const n of d.search.nodes) if (n.repository) cmap[n.repository.nameWithOwner] = (cmap[n.repository.nameWithOwner] || 0) + 1;
   return {
     stars: u.repositories.nodes.reduce((a, r) => a + r.stargazerCount, 0),
-    repos: u.repositories.totalCount,
+    repos: u.allRepos.totalCount,
     followers: u.followers.totalCount,
     mergedPRs: d.search.issueCount,
     commits: u.contributionsCollection.totalCommitContributions,
