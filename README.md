@@ -54,10 +54,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,prisma&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,prisma,rabbitmq&theme=dark" alt="Backend" />
 
 **Database**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Database" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&theme=dark" alt="Database" />
 
 **Programming & AI/ML**<br/>
 <img src="https://skillicons.dev/icons?i=java,python,js,sklearn&theme=dark" alt="Programming and AI/ML" />
