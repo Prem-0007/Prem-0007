@@ -11,7 +11,7 @@
   <a href="mailto:premkumarballa777@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=39ff14" alt="Email" /></a>
   <a href="https://github.com/Prem-0007"><img src="https://img.shields.io/badge/GITHUB-PREM--0007-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39ff14" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/Prem_0007/"><img src="https://img.shields.io/badge/LEETCODE-PREM__0007-0d1117?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=39ff14" alt="LeetCode" /></a>
-  <a href="https://jumpshare.com/share/0n1TcuyvK1GJkjkV8v8y"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-0d1117?style=for-the-badge&labelColor=0d1117&logo=readme&logoColor=39ff14" alt="Resume" /></a>
+  <a href="https://jumpshare.com/share/3bjQoflX7Cc41k19zm5w"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-0d1117?style=for-the-badge&labelColor=0d1117&logo=readme&logoColor=39ff14" alt="Resume" /></a>
 </p>
 
 
